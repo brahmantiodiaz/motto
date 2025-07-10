@@ -1,0 +1,73 @@
+.btn-add-ass{
+    color: var(--white);
+    background: var(--orange);
+    width: 210px;
+}
+.btn-copy{
+    color: var(--white);
+    background: var(--yellow);
+    width: 210px;
+}
+.btn-drop{
+    color: var(--orange);
+    background: var(--white);
+    border-color: var(--orange);
+    width: 210px;
+}
+
+.card-assigment-isi{
+    background: var(--orange);
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+.card-assigment{
+    border-width: 2px;
+    border-color: var(--orange);
+    height: 500px;
+    /* overflow-y: auto;
+    overflow-x: hidden; */
+}
+
+.border-o{
+    border-color: var(--orange);
+}
+
+.fa {
+    color: white !important;
+}
+
+.clickable {
+    cursor: pointer;
+  }
+
+.modal-border{
+    border-width: 3px;
+    border-color: var(--orange);
+}
+
+.card-project {
+    width: 270px;
+    height: 400px;
+    
+}
+.List1,.List2,.List3,.List4,.List {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.card-project-board {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.dataTables_length {
+    float: right;
+}
+
+.dataTables_filter {
+    float: right;
+    margin-right: 5px;
+}
